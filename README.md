@@ -1,20 +1,31 @@
 # 🌑 SENTINEL // FORENSIC INTERFACE v2.6
-
-[ ![RUN SYSTEM](https://img.shields.io/badge/RUN_SENTINEL-CLICK_HERE-blue?style=for-the-badge&logo=github&logoColor=white) ](https://codespaces.new/AI-growth-businessvault/sentinel-integrity-bridge?quickstart=1)
-
----
-
-### 📊 SYSTEM STATUS: 🟢 SECURE
-**STEALTH LAYER:** [🔑 INITIALIZE PUREVPN](YOUR_PUREVPN_LINK)  
-**INTEL LAYER:** [🔑 INITIALIZE MANGOOLS](YOUR_MANGOOLS_LINK)  
-**VAULT LAYER:** [🔑 INITIALIZE SYSTEME.IO](YOUR_SYSTEME_LINK)  
+> **STATUS:** ENCRYPTED // **NETWORK:** AES-256 MASKED
 
 ---
 
-## 🚀 HOW TO DEPLOY
-1. Click the **BLUE BUTTON** above to launch the Cloud Lab.
-2. Input your **Security Keys** (from the links above) when prompted.
-3. Your Forensic Report will be synced to your **Systeme.io Vault**.
+## ⚡ 1. INITIALIZE SECURITY STACK
+*The Sentinel requires three active layers to bypass metadata tracking.*
+
+| LAYER | COMPONENT | STATUS | ACTION |
+| :--- | :--- | :--- | :--- |
+| **01** | **STEALTH (VPN)** | 🔴 REQUIRED | [🔑 OBTAIN ENCRYPTION KEY](YOUR_PUREVPN_LINK) |
+| **02** | **INTEL (SEARCH)** | 🔴 REQUIRED | [🔑 OBTAIN SOURCE API](YOUR_MANGOOLS_LINK) |
+| **03** | **VAULT (STORAGE)** | 🔴 REQUIRED | [🔑 OBTAIN STORAGE PORT](YOUR_SYSTEME_LINK) |
 
 ---
-*Sentinel is a research tool for academic integrity. AES-256 Masking Enabled.*
+
+## 🚀 2. DEPLOY INTERFACE
+*Click below to launch the cloud terminal. No installation required.*
+
+[ ![DEPLOY TO CLOUD](https://img.shields.io/badge/LAUNCH_SENTINEL-CLICK_TO_START-blue?style=for-the-badge&logo=github&logoColor=white) ](https://codespaces.new/AI-growth-businessvault/sentinel-integrity-bridge?quickstart=1)
+
+---
+
+## 📖 3. HOW IT WORKS
+1. **Initialize Stack:** Click the 3 keys above to set up your environment.
+2. **Launch Terminal:** Hit the blue **LAUNCH** button.
+3. **Run Audit:** Once the terminal opens, paste your text and follow the prompts. 
+4. **Secure Report:** Sentinel will automatically sync results to your **Systeme.io Vault**.
+
+---
+*RESEARCH USE ONLY. PROTECT YOUR ACADEMIC REPUTATION.*
