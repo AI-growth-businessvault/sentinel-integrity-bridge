@@ -1,0 +1,10 @@
+{
+  "name": "Sentinel Lab",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "customizations": {
+    "codespaces": {
+      "openFiles": ["sentinel.py"]
+    }
+  },
+  "postCreateCommand": "python sentinel.py"
+}
